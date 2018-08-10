@@ -32,7 +32,7 @@ header .logo img {
 }
 
 header .info {
-    padding: 50px 20% 30px 20%;
+    padding: 50px 10% 30px 10%;
     border-top: 1px solid #D8D8D8;
     border-bottom: 1px solid #D8D8D8;
     display: flex;
@@ -247,7 +247,7 @@ main .main-text h1 {
 
 main .main-text p,
 li {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 main .main-text ul {
